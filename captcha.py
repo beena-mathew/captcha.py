@@ -104,4 +104,4 @@ def gen_captcha (save_as = "out.png"):
 #
 
 if __name__ == "__main__":
-	print "Generating captcha : "+gen_captcha ("my.png")
+	print "Generating captcha : "+gen_captcha ("test.png")
